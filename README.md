@@ -5,6 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ev4ness" alt="ev4ness" /></a> </p>
 
+## 📊 &nbsp;Status
+
+<p align="center">
+  <a href="https://t.me/Dr_Asad_Ali"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+    </p>
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=Vooyage21&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Vooyage21&theme=tokyonight"
+    />
+</p>
+
+<h3>
+
+
 - 🔭 I’m currently working on **Bot Telegram**
 
 <h3 align="left">Connect with me:</h3>
